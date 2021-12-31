@@ -43,6 +43,9 @@ TagManager:
   - name: TileSet
     uniqueID: 823248141
     locked: 0
+  - name: Enemies
+    uniqueID: 3088475565
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
